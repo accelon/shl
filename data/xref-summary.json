@@ -1,0 +1,320 @@
+{
+  "works": {
+    "ZJ": {
+      "title": "註解傷寒論",
+      "kind": "commentary",
+      "paragraphs": 1862,
+      "clauses_mapped": 391,
+      "coverage_pct": 98.2,
+      "grade": {
+        "A": 288,
+        "B": 77,
+        "C": 33
+      },
+      "avg_score": 0.897
+    },
+    "KP": {
+      "title": "古本康平傷寒論",
+      "kind": "recension",
+      "paragraphs": 703,
+      "clauses_mapped": 369,
+      "coverage_pct": 92.7,
+      "grade": {
+        "A": 241,
+        "B": 100,
+        "C": 57
+      },
+      "avg_score": 0.84
+    },
+    "GL": {
+      "title": "傷寒雜病論（桂林古本）",
+      "kind": "recension",
+      "paragraphs": 2311,
+      "clauses_mapped": 382,
+      "coverage_pct": 96,
+      "grade": {
+        "A": 255,
+        "B": 90,
+        "C": 53
+      },
+      "avg_score": 0.856
+    },
+    "YH": {
+      "title": "金匱玉函經",
+      "kind": "recension",
+      "paragraphs": 1228,
+      "clauses_mapped": 344,
+      "coverage_pct": 86.4,
+      "grade": {
+        "A": 98,
+        "B": 137,
+        "C": 163
+      },
+      "avg_score": 0.693
+    },
+    "TB": {
+      "title": "傷寒論條辨",
+      "kind": "commentary",
+      "paragraphs": 1843,
+      "clauses_mapped": 389,
+      "coverage_pct": 97.7,
+      "grade": {
+        "A": 265,
+        "B": 90,
+        "C": 43
+      },
+      "avg_score": 0.88
+    },
+    "SL": {
+      "title": "尚論篇",
+      "kind": "commentary",
+      "paragraphs": 1051,
+      "clauses_mapped": 373,
+      "coverage_pct": 93.7,
+      "grade": {
+        "A": 266,
+        "B": 80,
+        "C": 52
+      },
+      "avg_score": 0.853
+    },
+    "LSZ": {
+      "title": "傷寒論註來蘇集",
+      "kind": "commentary",
+      "paragraphs": 1355,
+      "clauses_mapped": 351,
+      "coverage_pct": 88.2,
+      "grade": {
+        "A": 186,
+        "B": 122,
+        "C": 90
+      },
+      "avg_score": 0.781
+    },
+    "GZ": {
+      "title": "傷寒貫珠集",
+      "kind": "commentary",
+      "paragraphs": 1169,
+      "clauses_mapped": 383,
+      "coverage_pct": 96.2,
+      "grade": {
+        "A": 259,
+        "B": 100,
+        "C": 39
+      },
+      "avg_score": 0.868
+    },
+    "QZ": {
+      "title": "傷寒論淺註補正",
+      "kind": "commentary",
+      "paragraphs": 2130,
+      "clauses_mapped": 398,
+      "coverage_pct": 100,
+      "grade": {
+        "A": 360,
+        "B": 31,
+        "C": 7
+      },
+      "avg_score": 0.965
+    },
+    "JY": {
+      "title": "傷寒論輯義",
+      "kind": "commentary",
+      "paragraphs": 1546,
+      "clauses_mapped": 300,
+      "coverage_pct": 75.4,
+      "grade": {
+        "A": 256,
+        "B": 37,
+        "C": 105
+      },
+      "avg_score": 0.749
+    },
+    "JC": {
+      "title": "傷寒論集成",
+      "kind": "commentary",
+      "paragraphs": 1778,
+      "clauses_mapped": 393,
+      "coverage_pct": 98.7,
+      "grade": {
+        "A": 315,
+        "B": 64,
+        "C": 19
+      },
+      "avg_score": 0.927
+    },
+    "SYJ": {
+      "title": "傷寒溯源集",
+      "kind": "commentary",
+      "paragraphs": 1390,
+      "clauses_mapped": 385,
+      "coverage_pct": 96.7,
+      "grade": {
+        "A": 255,
+        "B": 101,
+        "C": 42
+      },
+      "avg_score": 0.87
+    },
+    "XJ": {
+      "title": "傷寒懸解",
+      "kind": "commentary",
+      "paragraphs": 837,
+      "clauses_mapped": 234,
+      "coverage_pct": 58.8,
+      "grade": {
+        "A": 146,
+        "B": 64,
+        "C": 188
+      },
+      "avg_score": 0.552
+    },
+    "GM": {
+      "title": "傷寒論綱目",
+      "kind": "commentary",
+      "paragraphs": 2633,
+      "clauses_mapped": 362,
+      "coverage_pct": 91,
+      "grade": {
+        "A": 199,
+        "B": 122,
+        "C": 77
+      },
+      "avg_score": 0.803
+    },
+    "ZZ": {
+      "title": "張卿子傷寒論",
+      "kind": "commentary",
+      "paragraphs": 2040,
+      "clauses_mapped": 391,
+      "coverage_pct": 98.2,
+      "grade": {
+        "A": 284,
+        "B": 79,
+        "C": 35
+      },
+      "avg_score": 0.892
+    },
+    "HZ": {
+      "title": "傷寒論彙註精華",
+      "kind": "commentary",
+      "paragraphs": 1510,
+      "clauses_mapped": 385,
+      "coverage_pct": 96.7,
+      "grade": {
+        "A": 265,
+        "B": 104,
+        "C": 29
+      },
+      "avg_score": 0.883
+    },
+    "LF": {
+      "title": "傷寒論類方",
+      "kind": "commentary",
+      "paragraphs": 553,
+      "clauses_mapped": 238,
+      "coverage_pct": 59.8,
+      "grade": {
+        "A": 81,
+        "B": 114,
+        "C": 203
+      },
+      "avg_score": 0.527
+    },
+    "HR": {
+      "title": "類證活人書",
+      "kind": "commentary",
+      "paragraphs": 1261,
+      "clauses_mapped": 224,
+      "coverage_pct": 56.3,
+      "grade": {
+        "A": 85,
+        "B": 99,
+        "C": 214
+      },
+      "avg_score": 0.512
+    },
+    "MJ": {
+      "title": "脈經（卷七–八）",
+      "kind": "recension",
+      "paragraphs": 420,
+      "clauses_mapped": 158,
+      "coverage_pct": 39.7,
+      "grade": {
+        "A": 17,
+        "B": 42,
+        "C": 339
+      },
+      "avg_score": 0.354
+    },
+    "QY": {
+      "title": "千金翼方（卷九–十）",
+      "kind": "recension",
+      "paragraphs": 3427,
+      "clauses_mapped": 248,
+      "coverage_pct": 62.3,
+      "grade": {
+        "A": 34,
+        "B": 92,
+        "C": 272
+      },
+      "avg_score": 0.53
+    },
+    "WT": {
+      "title": "外臺秘要（卷一–二）",
+      "kind": "recension",
+      "paragraphs": 816,
+      "clauses_mapped": 64,
+      "coverage_pct": 16.1,
+      "grade": {
+        "A": 7,
+        "B": 23,
+        "C": 368
+      },
+      "avg_score": 0.177
+    },
+    "SHF": {
+      "title": "太平聖惠方（卷八–十）",
+      "kind": "recension",
+      "paragraphs": 1299,
+      "clauses_mapped": 22,
+      "coverage_pct": 5.5,
+      "grade": {
+        "A": 0,
+        "B": 6,
+        "C": 392
+      },
+      "avg_score": 0.145
+    },
+    "BW": {
+      "title": "仲景傷寒補亡論",
+      "kind": "commentary",
+      "paragraphs": 1483,
+      "clauses_mapped": 381,
+      "coverage_pct": 95.7,
+      "grade": {
+        "A": 306,
+        "B": 72,
+        "C": 20
+      },
+      "avg_score": 0.915
+    },
+    "CYF": {
+      "title": "曹氏傷寒金匱發微合刊",
+      "kind": "commentary",
+      "paragraphs": 2509,
+      "clauses_mapped": 390,
+      "coverage_pct": 98,
+      "grade": {
+        "A": 299,
+        "B": 71,
+        "C": 28
+      },
+      "avg_score": 0.908
+    }
+  },
+  "clauses": 398,
+  "generated_at": "2026-11-05T00:32:31.079Z",
+  "xref_rows": 7978,
+  "gap_rows": 615
+}

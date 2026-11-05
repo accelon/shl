@@ -1,0 +1,20 @@
+{
+  "id": "shl",
+  "title": "傷寒論選注",
+  "tradition": "醫家",
+  "subtitle": "宋本 398 條 · 8 家注 · 條級",
+  "status": "incubating",
+  "owner": "shl",
+  "since": "2026-11",
+  "url": "/incubator/shl.html",
+  "desc": "《傷寒論》宋本 398 條，配成無己、方有執、喻昌、柯琴、尤怡、陳修園、丹波元簡、山田正珍八家。點一句顯示該條注；先做條級對位，句級與辭典晚點。",
+  "why": "條級 prototype 剛上，句級與辭典還沒校好；先收集閱讀回饋。",
+  "meta": "純靜態單頁 · 2026-11-05 · 1.94 MB",
+  "links": [
+    {
+      "label": "條級 prototype",
+      "href": "/incubator/shl.html"
+    }
+  ],
+  "path": "/var/www/html/incubator"
+}

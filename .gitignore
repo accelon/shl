@@ -1,0 +1,17 @@
+node_modules/
+out/
+vendor/
+.local/
+*.log
+
+# 原始語料與大檔
+data/sources/
+data/**/*.pdf
+data/**/*.PDF
+data/**/*.adb
+data/**/*.zip
+
+# 建置產物
+site/*.html
+site/reader/
+build/

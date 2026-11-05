@@ -1,0 +1,48 @@
+witness_id	title	author	era	year	lang	type	relation	derivation	scope	source	url	local_file	paragraphs	status	note
+SB	傷寒論（宋本）	張機（仲景）撰；王叔和編次；林億等校正	東漢	約200；校正1066	zh	base	base	original	全書10卷22篇	中醫笈成（四部叢刊初編·註解傷寒論）	https://jicheng.tw/tcm/book/傷寒論（宋本）/index.html	songben.html	1025	downloaded	398條編號為電子本所加；底本屬註解傷寒論系統，非趙開美獨立宋本
+ZJ	註解傷寒論	成無己	金	1144	zh	commentary	parallel	commentary	全書	中醫笈成（四部叢刊初編，嘉靖乙巳刊本）	https://jicheng.tw/tcm/book/註解傷寒論/index.html	zhujie.html	1862	downloaded	第一家全文注；經文＋注文相間
+KP	古本康平傷寒論	張機；大塚敬節校正	日本	康平三年（1060）寫本	zh	recension	parallel	original	全書	中醫笈成（葉橘泉重校重排本）	https://jicheng.tw/tcm/book/古本康平傷寒論/index.html	kangping.html	703	downloaded	無成無己注；保留旁注／夾注形態
+KZ	康治本傷寒論	張機	日本	康治二年（1143）寫本	zh	recension	parallel	original	全書（最簡本）	待找排印本／掃描本				todo	僅 50 餘方、無傷寒例；未有可靠全文，暫不建軌
+GL	傷寒雜病論（桂林古本）	張機	東漢（自稱）	1930s 傳出；1980 刊	zh	recension	parallel	original	全書16卷	中醫笈成（廣西人民出版社1980版）	https://jicheng.tw/tcm/book/傷寒雜病論（桂林古本）/index.html	guilin.html	2311	downloaded	編次與宋本差異大；含六氣、溫病等
+YH	金匱玉函經	張機	漢（傳）	清康熙刻本	zh	recension	parallel	original	全書	中醫笈成（清康熙刻本）	https://jicheng.tw/tcm/book/金匱玉函經/index.html	yuhan.html	1228	downloaded	與宋本同源異流；可作早期傳本證據
+MJ	脈經	王叔和	西晉	約280	zh	recension	parallel	original	卷七至卷九（傷寒／汗吐下）	中醫笈成（影鈔宋嘉定刊小字本）	https://jicheng.tw/tcm/book/脈經/index.html	maijing.html	1316	downloaded	最早可考的仲景遺論編次；卷七傷寒例／辨脈，卷八汗吐下，卷九可不可
+QY	千金翼方	孫思邈	唐	682	zh	recension	parallel	original	卷九、卷十（傷寒論）	中醫笈成（清同治掃葉山房本）	https://jicheng.tw/tcm/book/千金翼方/index.html	qianjin.html	9197	downloaded	唐初所見傷寒論面貌；方證次序與宋本不同
+WT	外臺秘要	王燾	唐	752	zh	recension	parallel	original	卷一、卷二（傷寒）	中醫笈成	https://jicheng.tw/tcm/book/外臺秘要/index.html	外臺秘要.html	19981	downloaded	引崔氏、千金、仲景諸家；可補唐本異文
+SHF	太平聖惠方	王懷隱、陳昭遇等	北宋	992	zh	recension	parallel	original	卷八至卷十（傷寒）	中醫笈成	https://jicheng.tw/tcm/book/太平聖惠方/index.html	太平聖惠方.html	51657	downloaded	淳化本系統；宋初官修，早於林億校正
+ML	傷寒明理論	成無己	金	1142	zh	treatise	dependent	commentary	五十證＋方論	中醫笈成	https://jicheng.tw/tcm/book/傷寒明理論/index.html	傷寒明理論.html	118	downloaded	按證／方立論，非逐條；適合做術語與證候索引
+ZB	傷寒總病論	龐安時（安石）	北宋	1084	zh	commentary	dependent	commentary	全書	中醫笈成	https://jicheng.tw/tcm/book/傷寒總病論/index.html	傷寒總病論.html	1426	downloaded	北宋傷寒學；含溫病、天行、暑病
+HR	類證活人書	朱肱	北宋	1118	zh	commentary	dependent	commentary	全書	中醫笈成	https://jicheng.tw/tcm/book/類證活人書/index.html	類證活人書.html	1261	downloaded	按證類編，影響宋元傷寒學
+BZG	傷寒百證歌	許叔微	南宋	1130年代	zh	treatise	dependent	commentary	百證歌訣	中醫笈成	https://jicheng.tw/tcm/book/傷寒百證歌/index.html	傷寒百證歌.html	103	downloaded	歌訣體，非逐條注；可作證候索引
+SJL	傷寒九十論	許叔微	南宋	1132	zh	treatise	dependent	commentary	九十論	中醫笈成	https://jicheng.tw/tcm/book/傷寒九十論/index.html	傷寒九十論.html	143	downloaded	醫論／醫案體
+WZ	傷寒微旨論	韓祗和	北宋	1086?	zh	treatise	dependent	commentary	二卷	四庫全書子部·醫家類（skqs → data/sources/skqs-wz.txt）	https://jicheng.tw/tcm/book/傷寒微旨論/index.html	skqs-wz.txt		downloaded	四庫本；jicheng／jc.adb 皆空殼，此為目前唯一全文
+ZG	傷寒直格	劉完素	金	1186?	zh	treatise	dependent	commentary	三卷	jc.adb → out/jc-books/傷寒直格.xml	https://jicheng.tw/tcm/book/傷寒直格/index.html			extracted	火熱論；與成無己相對照；已由 jc.adb 抽出
+BW	仲景傷寒補亡論	郭雍	南宋	1181?	zh	commentary	dependent	commentary	二十卷	jc.adb → out/jc-books/仲景傷寒補亡論.xml	https://jicheng.tw/tcm/book/仲景傷寒補亡論/index.html			extracted	補亡體；已由 jc.adb 抽出
+TB	傷寒論條辨	方有執	明	1592	zh	commentary	dependent	commentary	全書（重編）	中醫笈成（四庫文淵閣本）	https://jicheng.tw/tcm/book/傷寒論條辨/index.html	傷寒論條辨.html	1843	downloaded	削傷寒例、重編條次；開清代錯簡重訂之風
+SL	尚論篇	喻昌	清	1648	zh	commentary	dependent	commentary	全書（重編）	中醫笈成（四庫文淵閣本）	https://jicheng.tw/tcm/book/尚論篇/index.html	尚論篇.html	1051	downloaded	錯簡論；按法重編
+LSZ	傷寒論註來蘇集	柯琴	清	1669	zh	commentary	dependent	commentary	傷寒論註	中醫笈成（早稻田大學掃描本）	https://jicheng.tw/tcm/book/傷寒論註來蘇集/index.html	傷寒論註來蘇集.html	1355	downloaded	以方類證、六經地面說
+LSJ	傷寒來蘇集	柯琴	清	1669	zh	commentary	dependent	commentary	含翼／附翼	中醫笈成	https://jicheng.tw/tcm/book/傷寒來蘇集/index.html	傷寒來蘇集.html	535	downloaded	與 LS 互補；含《傷寒論翼》
+LSY	傷寒論翼	柯琴	清	1669?	zh	treatise	dependent	commentary	二卷	中醫笈成	https://jicheng.tw/tcm/book/傷寒論翼/index.html	傷寒論翼.html	110	downloaded	六經地面、合病併病等通論
+LSF	傷寒附翼	柯琴	清	1669?	zh	treatise	dependent	commentary	方論	中醫笈成	https://jicheng.tw/tcm/book/傷寒附翼/index.html	傷寒附翼.html	275	downloaded	方論
+GZ	傷寒貫珠集	尤怡	清	1729	zh	commentary	dependent	commentary	全書（按法編）	中醫笈成（北京大學掃描本）	https://jicheng.tw/tcm/book/傷寒貫珠集/index.html	傷寒貫珠集.html	1169	downloaded	正治／權變／斡旋／救逆／類病諸法
+QZ	傷寒論淺註補正	陳念祖（修園）注；唐宗海（容川）補正	清	1803／1894	zh	commentary	dependent	commentary	全書	中醫笈成（北京大學掃描本）	https://jicheng.tw/tcm/book/傷寒論淺註補正/index.html	傷寒論淺註補正.html	2130	downloaded	普及本；補正加入唐氏按語
+LF	傷寒論類方	徐大椿（靈胎）	清	1759	zh	commentary	dependent	commentary	按方類編	中醫笈成	https://jicheng.tw/tcm/book/傷寒論類方/index.html	傷寒論類方.html	553	downloaded	方類；每方下繫條文
+SYJ	傷寒溯源集	錢潢	清	1707	zh	commentary	dependent	commentary	全書	中醫笈成	https://jicheng.tw/tcm/book/傷寒溯源集/index.html	傷寒溯源集.html	1390	downloaded	考據／溯源
+BZ	傷寒論辯證廣註	汪琥	清	1680	zh	commentary	dependent	commentary	全書	中醫笈成	https://jicheng.tw/tcm/book/傷寒論辯證廣註/index.html	傷寒論辯證廣註.html	1670	downloaded	集注體；辨證為主
+XJ	傷寒懸解	黃元御	清	1748	zh	commentary	dependent	commentary	全書（重編）	中醫笈成	https://jicheng.tw/tcm/book/傷寒懸解/index.html	傷寒懸解.html	837	downloaded	氣化／六經；重編
+GM	傷寒論綱目	沈金鰲	清	1774	zh	commentary	dependent	commentary	全書（按證類編）	中醫笈成	https://jicheng.tw/tcm/book/傷寒論綱目/index.html	傷寒論綱目.html	2633	downloaded	按證類編，非原次
+YJ	醫宗金鑑·訂正仲景全書傷寒論註	吳謙等	清	1742	zh	commentary	dependent	commentary	全書	中醫笈成（醫宗金鑑）	https://jicheng.tw/tcm/book/醫宗金鑑/訂正仲景全書傷寒論註/index.html	醫宗金鑑·傷寒論註.html	2945	downloaded	官修；清代科舉讀本
+ZZ	張卿子傷寒論	張遂辰（卿子）參	清	1644	zh	commentary	dependent	commentary	全書	中醫笈成	https://jicheng.tw/tcm/book/張卿子傷寒論/index.html	張卿子傷寒論.html	2040	downloaded	成無己注＋張氏參評
+HZ	傷寒論彙註精華	（輯者待考）	清	清	zh	commentary	dependent	commentary	全書	中醫笈成	https://jicheng.tw/tcm/book/傷寒論彙註精華/index.html	傷寒論彙註精華.html	1510	downloaded	彙註；作者待考
+HDB	傷寒論後條辨	程應旄	清	1670?	zh	commentary	dependent	commentary	全書	待找				todo	重編條辨；中醫笈成未收
+ZJZ	傷寒論直解	張錫駒	清	1712?	zh	commentary	dependent	commentary	全書	待找				todo	待找
+SZ	傷寒論三注	周揚俊	清	1670?	zh	commentary	dependent	commentary	全書	待找				todo	喻昌／方有執／柯琴三家合注
+JY	傷寒論輯義	丹波元簡	日本	1801	zh	commentary	dependent	commentary	全書（集注）	中醫笈成（皇漢醫學叢書）	https://jicheng.tw/tcm/book/傷寒論輯義/index.html	傷寒論輯義.html	1546	downloaded	集注＋考據；引用數十家
+SY	傷寒論述義	丹波元堅	日本	1827	zh	treatise	dependent	commentary	通論	中醫笈成（皇漢醫學叢書）	https://jicheng.tw/tcm/book/傷寒論述義/index.html	傷寒論述義.html	60	downloaded	通論體，非逐條
+JC	傷寒論集成	山田正珍	日本	1789	zh	commentary	dependent	commentary	全書	中醫笈成（皇漢醫學叢書）	https://jicheng.tw/tcm/book/傷寒論集成/index.html	傷寒論集成.html	1778	downloaded	考據派；刪偽／校勘
+KGI	傷寒論疏義	喜多村直寬	日本	1840s	zh	commentary	dependent	commentary	全書	待找				todo	待找
+CYF	曹氏傷寒金匱發微合刊	曹穎甫	近代	1930s	zh	commentary	dependent	commentary	全書	jc.adb → out/jc-books/曹氏傷寒金匱發微合刊.xml	https://jicheng.tw/tcm/book/曹氏傷寒金匱發微合刊/index.html			extracted	近代經方派；已由 jc.adb 抽出
+HH	皇漢醫學	湯本求真	日本	1927	zh	treatise	dependent	commentary	方證／醫案	中醫笈成	https://jicheng.tw/tcm/book/皇漢醫學/index.html			todo	古方派；可作方證索引
+SW	黃帝內經素問	（傳）黃帝	先秦—漢	—	zh	reference	reference	reference	全書	hdnj（data/tracks/zh-suwen.tsv）				external	張仲景序所引；軌號 SW01-001.1 由 hdnj 建，shl 只引用
+LS	靈樞（九卷）	（傳）黃帝	先秦—漢	—	zh	reference	reference	reference	全書	hdnj（data/tracks/zh-lingshu.tsv）				external	序稱《九卷》；軌號 LS01-001.1 由 hdnj 建
+NJ	八十一難經	（傳）扁鵲	漢	—	zh	reference	reference	reference	全書	hdnj（data/works.tsv NJ；待切軌）				external	序所引；hdnj 已登記 NJ，尚未切軌
+BC	神農本草經	（傳）神農	漢	—	zh	reference	reference	reference	藥物	中醫笈成	https://jicheng.tw/tcm/book/神農本草經/index.html			todo	方藥劑量／藥性；可建「方→藥」索引，不建全文軌

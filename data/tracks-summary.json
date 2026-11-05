@@ -1,0 +1,26 @@
+{
+  "witness": "SB",
+  "tracks": 1757,
+  "bases": 621,
+  "clauses": 398,
+  "paras": 223,
+  "formulas": 120,
+  "by_kind": {
+    "para": 574,
+    "clause": 650,
+    "formula-title": 141,
+    "formula-ingredients": 123,
+    "formula-method": 269
+  },
+  "cuts": 1756,
+  "cuts_by_kind": {
+    "editorial": 1136,
+    "duan": 209,
+    "pian": 23,
+    "tiao": 388
+  },
+  "hierarchy_nodes": 657,
+  "chars": 42497,
+  "long_sentences_80": 13,
+  "max_track_chars": 180
+}
